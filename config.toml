@@ -14,8 +14,7 @@ URL = "about"
 name = "About Me"
 weight = 1
 [outputs]
-home = ["HTML", "RSS", "JSON", "AMP"]
-page = ["HTML", "AMP"]
+home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Themefisher"
